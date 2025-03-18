@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StaffHireGUI
+comment1.params=
+comment1.target=StaffHireGUI()
+comment2.params=
+comment2.target=void\ addFullTimeStaff()
+comment3.params=
+comment3.target=void\ addPartTimeStaff()
+comment4.params=
+comment4.target=void\ setSalary()
+comment5.params=
+comment5.target=void\ setShifts()
+comment6.params=
+comment6.target=void\ terminatePartTimeStaff()
+comment7.params=
+comment7.target=void\ displayStaff()
+comment8.params=
+comment8.target=void\ clearFields()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
